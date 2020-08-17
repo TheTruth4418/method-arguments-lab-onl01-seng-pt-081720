@@ -1,7 +1,7 @@
 def introduction(name)
-  "Whats good #{name}"
+  "Hi, my name is #{name}./n"
 end
 
 def introduction_with_language(name, language)
-  "You are #{name} and you program in #{language}"
+  "Hi, my name is #{name} and I am learning how to program in #{language}."
 end
